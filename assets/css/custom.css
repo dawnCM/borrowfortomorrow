@@ -1,0 +1,521 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  /*background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;*/
+}
+
+.container{
+    /*margin: 0 13%;*/
+}
+
+#site-nav{
+}
+
+.bg-dark {
+    background-color: transparent !important;
+}
+
+#site-logo{
+  /*padding:0;*/
+  /*padding: 0px 10%;*/
+  padding-top: 10px;
+}
+
+.home-info{
+  margin-top: 15%;
+}
+
+.site-title-bft{
+}
+
+#title-1{
+  font-size: 40px;
+  color: #fc8111;
+}
+
+#title-2{
+  font-size: 40px;
+  color: #0075c9;
+}
+
+.loan-back{
+    padding: 8%;
+    padding-bottom: 3%;
+    background: #fff;
+    
+}
+
+.loan-right-line{
+  border-right: 3px solid #dae4ee;
+}
+
+.loan{
+  margin-top: 5%;
+  margin-bottom: 8%;
+}
+
+.loan-p{
+    margin-top: 5%;
+    margin-bottom: 1rem;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+}
+
+.img-size{
+  width: 50px;
+  height: 45px;
+}
+
+.loan-margin{
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+.loan-margin-left{
+    margin-left: 2%;
+}
+
+#site-nav{
+
+}
+#section-home{
+  background-image: url('../images/Home-Page-Banner-BG.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding: 0px 14%;
+  background-size: cover;
+
+  width: 100%;
+  height:auto;
+  /*background-size: contain;*/
+}
+
+
+/*---2nd Section  section-blog---*/
+#section-blog{
+  background-color: #f1f5fd;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#blog{
+    margin: 0 8%;
+}
+
+.blog-padding{
+  background-color: #ffffff;
+  padding: 10%;
+}
+
+.blog-title{
+  font-size: 19px;
+  font-weight: bold;
+  color: #697492;
+}
+
+.blog-content{
+  font-size: 13px;
+  font-weight: normal;
+}
+
+.complete{
+    display:none;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.btn-read-more{
+  font-size: 14px;
+  font-weight: normal;
+  background-color: #f98643;
+  border-radius: 24px;
+  color: #ffffff;
+}
+
+.btn-read-more:hover{
+  background-color: #ffffff;
+  color: #f98643;
+  border-color: #f98643;
+} 
+
+.margin-top{
+  margin-top: 4%;
+}
+
+/*----footer-----*/
+#site-footer{
+ /* background-color: #2e3238;
+  color: #ffffff;*/
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+.footer-adjust{
+  padding: 0 3%;
+}
+
+.contact-info p,.terms-info p, .contact-links p{
+  margin-bottom: 0rem;
+}
+
+.keep-in-touch{
+ margin-bottom: 0rem; 
+}
+
+.contact a{
+  margin-bottom: 0rem;
+  text-decoration: none;
+}
+
+.contact a:hover{
+  color: #f98643;
+} 
+
+.contact,.contact a{
+  font-size: 14px;
+  color: #8b8b8b;
+  text-decoration: none;
+  font-weight: 500;
+  margin-bottom: 0rem;
+}
+.social-ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.social-li{
+  float: left;
+}
+
+.social-li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+}
+
+.col-md-6 a{
+  text-decoration: none;
+  color: #212529;
+}
+
+.col-md-3 a{
+  text-decoration: none;
+  color: #212529;
+}
+
+.contact a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/********credit card page*********/
+#cc{
+  background-color: #f0954c;
+}
+
+#credit-cards{
+  margin: 3% 0;
+  padding: 0 15%;
+}
+
+.mar-top-2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.cc-header{
+  padding: 0 8%;
+}
+
+#cc-logo{
+  margin-top: 1%;
+}
+
+#cc-header-line{
+  background-color: #ffffff;
+}
+
+.cc-header-h1{
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  margin: 3% 0;
+}
+
+.card-image{
+    background-color: #eaf2fa;
+    padding: 2%;
+}
+
+.card-image img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 100%;
+  height: auto;    
+  padding: 1.5%;
+}
+
+.cc-border{
+  border: 2px solid #bbbbd9;
+  border-radius: 10px;
+}
+
+.card-features{
+
+}
+
+.cc-section{
+  border: 2px solid #b4b3d5;
+  border-radius: 4px;
+}
+
+.card-block{
+    background-color: #eaf2fa;
+    margin: 0;
+    padding: 0;
+}
+
+.card-features h2{
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  color: #57595b;
+  margin: 2% 0;
+}
+
+.card-features-ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.card-features-li{
+  font-size: 13px;
+  color: #616b83;
+  font-weight: normal;
+}
+
+.card-features-li i{
+  color: #ee8b4f;
+  margin-right: 1%;
+}
+
+.btn-continue{
+    background-color: #f98643;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ffffff;
+    border-radius: 24px;
+    text-decoration: none;
+    /* width: 25%; */
+    margin: 10px 0;
+    padding: 1% 10%;
+    box-shadow: 3px 3px #ebf2fa;
+}
+
+.btn-continue:hover{
+  color: #f98643;
+  background-color: #ffffff;
+  border: 1px solid #f98643;
+}
+
+/*---terms---*/
+#terms-logo{
+    margin: 1% 0;
+}
+
+#terms{
+  margin: 3% 0;
+  padding: 0 13%;
+}
+
+#page-title{
+  font-size: 21px;
+  font-weight: bold;
+  color: #ff8400;
+  margin-bottom: 3%;
+}
+
+.terms-p{
+  font-size: 13px;
+}
+
+.tol-p{
+  font-size: 12px;
+  color: #1b1b1b;
+}
+
+.tol-h2{
+  font-size: 19px;
+  color: #1b1b1b;
+  font-weight: 500;     
+  margin-bottom: 5px;
+}
+
+/**------Types of Loans----------*/
+#tol{
+  background-image: url('../images/header_bg.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  /*padding: 0px 14%;*/
+  background-size: cover;
+}
+
+.tol-row{
+      padding: 4% 3%;
+}
+
+.tol-body{
+      padding: 2% 14%;
+}
+
+.tol-loan-back {
+    padding: 5% 5%;
+    background: #fff;
+}
+
+.tol-img-size {
+    width: 40px;
+}
+
+.bft-tol-logo{
+  padding: 0 9%;
+}
+
+.tol-main{
+    margin: 0 0 0 5%;
+}
+
+.tol-loan-p {
+    margin-top: 5%;
+    margin-bottom: 1rem;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.disclosure-1{
+  font-weight: 500;
+  font-size: 14px;
+  color: #8b8b8b;
+  text-transform: uppercase;
+}
+.disclosure-2{
+  font-size: 13px;
+  color: #8b8b8b;
+}
+
+.disclosure-3{
+  font-weight: 500;
+  font-size: 14px;
+  color: #355fb6;
+}
+
+.disclosure-3 a:hover{
+  color: #f98643;
+  text-decoration: none;
+}
+
+#copyright-bg{
+  background-color: #f0f5fd;
+}
+
+.copyright-bg{
+  padding: 2% 0;
+}
+
+.copyright{
+  font-weight: 500;
+  color: #000000;
+  font-size: 12px;
+}
+
+.modal-header {
+    display: -ms-flexbox;
+    display: block;
+    background-color: #f98643;
+    color: #ffffff;
+    font-weight: 900;
+  }
+
+.close{
+      color: #ffffff;
+}
+
+/*---scrollbar---*/
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #2e3338; 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #2e3338; 
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #2e3338; 
+}
+
+/*------selected selectore--------*/
+::-moz-selection { /* Code for Firefox */
+    color: #ffffff;
+    background: #f98643;
+}
+
+::selection {
+    color: #ffffff;
+    background: #f98643;
+}
+
+/*------------Media Query-------------*/
+@media only screen and (max-width: 600px) and (min-width: 300px)  {
+
+  #section-home{
+    background-image: none;
+    background-color: #d9e3ed;
+  }
+
+  .loan-margin-left {
+    margin-top: 4%;
+    margin-left: 0;
+  }
+
+  .col-md-6{
+    padding: 0;
+  }
+
+  .loan-back {
+    padding: 2%;
+    background: #fff;
+  }
+
+
+  .blog-padding {
+    margin-top: 4%;
+  }
+
+}
